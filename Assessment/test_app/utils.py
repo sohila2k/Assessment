@@ -1,0 +1,2 @@
+# Course
+COURSE_DELETED = 0
